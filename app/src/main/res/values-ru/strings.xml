@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Dagger2</string>
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+    <string name="logo">logo</string>
+    <string name="first_to_know">Первый, кто узнает</string>
+    <string name="app_info">Все новости в одном месте, узнавайте новости первыми</string>
+    <string name="next">Следующий</string>
+    <string name="select_your_favourite_topics">Выберите ваши любимые темы</string>
+    <string name="select_some_topics_to_let_us">Выберите некоторые из ваших любимых тем, чтобы мы предложили вам лучшие новости.</string>
+    <string name="home_menu">Дом</string>
+    <string name="browse_menu">Категории</string>
+    <string name="bookmark_menu">Закладка</string>
+    <string name="profile_menu">Профиль</string>
+    <string name="settings">Настройки</string>
+    <string name="night_mode">Ночной режим</string>
+    <string name="languages">Языки</string>
+    <string name="english">Английский</string>
+    <string name="german">Немецкий</string>
+    <string name="russian">Русский</string>
+    <string name="spanish">испанский</string>
+    <string name="uzbek">Uzbek</string>
+
+
+    <string name="categories">Категории</string>
+    <string name="categories_info">Тысячи статей в каждой категории</string>
+    <string name="category_sport">🏈 Спорт</string>
+    <string name="category_politics">⚖️ Политика</string>
+    <string name="category_life">🌞 Жизнь</string>
+    <string name="category_gaming">🎮   Игры</string>
+    <string name="category_animals">🐻   Животные</string>
+    <string name="category_nature">🌴   Природа</string>
+    <string name="category_food">🍔   Еда</string>
+    <string name="category_art">🎨   Искусство</string>
+    <string name="category_history">📜   История</string>
+    <string name="category_fashion">👗   Мода</string>
+    <string name="category_covid19">😷   Covid-19</string>
+    <string name="category_middle_east">⚔️   Средний Восток</string>
+    <string name="bookmark">Закладка</string>
+    <string name="bookmark_info">Сохраненные статьи в библиотеку</string>
+    <string name="no_bookmark">Вы еще не сохранили ни одной статьи. Начните читать и добавьте их в закладки прямо сейчас</string>
+    <string name="browse">Просматривать</string>
+    <string name="home_info">Откройте для себя вещи этого мира</string>
+    <string name="search">Поиск</string>
+    <string name="recommended">Рекомендуется для вас</string>
+    <string name="see_all">Увидеть все</string>
+    <string name="share">Поделиться</string>
+</resources>

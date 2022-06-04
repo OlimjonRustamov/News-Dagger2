@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Dagger2</string>
+    <string name="hello_blank_fragment">Salom bo\'sh fragment</string>
+    <string name="logo">logo</string>
+    <string name="first_to_know">Eng birinchi</string>
+    <string name="app_info">Barcha yangiliklar bir yerda, oxirgilaridan eng birinchilardan bo\'lib xabardor bo\'ling</string>
+    <string name="next">Keyingi</string>
+    <string name="select_your_favourite_topics">Sevimli mavzularingizni tanlang</string>
+    <string name="select_some_topics_to_let_us">Sevimli mavzularingizni biz sizga qiziqtirgan yangiliklar haqida xabar berishnimiz uchun tanlang</string>
+    <string name="home_menu">Bosh sahifa</string>
+    <string name="browse_menu">Kategoriyalar</string>
+    <string name="bookmark_menu">Saqlanganlar</string>
+    <string name="profile_menu">Profil</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="night_mode">Tungi rejim</string>
+    <string name="languages">Ilova tili</string>
+    <string name="english">Ingliz tili</string>
+    <string name="german">Nemis tili</string>
+    <string name="russian">Rus tili</string>
+    <string name="spanish">Ispan tili</string>
+    <string name="uzbek">O\'zbek tili</string>
+
+    <string name="categories">Kategoriyalar</string>
+    <string name="categories_info">Har bir turkumda minglab maqolalar</string>
+    <string name="category_sport">🏈 Sport</string>
+    <string name="category_politics">⚖️ Siyosat</string>
+    <string name="category_life">🌞 Hayot</string>
+    <string name="category_gaming">🎮   O\'yin-kulgu</string>
+    <string name="category_animals">🐻   Hayvonot</string>
+    <string name="category_nature">🌴   Tabiat</string>
+    <string name="category_food">🍔   Ovqat</string>
+    <string name="category_art">🎨   San\'at</string>
+    <string name="category_history">📜   Tarix</string>
+    <string name="category_fashion">👗   Moda</string>
+    <string name="category_covid19">😷   Covid-19</string>
+    <string name="category_middle_east">⚔️   O\'rta sharq</string>
+    <string name="bookmark">Sevimlilar</string>
+    <string name="bookmark_info">Kutubxonaga saqlangan maqolalar</string>
+    <string name="no_bookmark">Sizda hali birorta saqlangan maqola mavjud emas. Hoziroq o\'qishni boshlang</string>
+    <string name="browse">Yangiliklar</string>
+    <string name="home_info">Dunyo yangiliklarini kashf qiling</string>
+    <string name="search">Qidirish</string>
+    <string name="recommended">Tavsiya etilganlar</string>
+    <string name="see_all">Barchasi</string>
+    <string name="share">Ulashish</string>
+</resources>

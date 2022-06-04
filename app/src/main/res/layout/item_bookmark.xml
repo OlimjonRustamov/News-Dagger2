@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="112dp"
+    android:paddingTop="16dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:drawingCacheQuality="low"
+        android:scaleType="centerCrop"
+        android:id="@+id/bookmark_image"
+        android:background="@drawable/settings_bg"
+        android:src="@drawable/bookmark"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_width="96dp"
+        android:layout_height="96dp" />
+
+    <TextView
+        android:textSize="16sp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/bookmark_image"
+        android:id="@+id/bookmark_category"
+        android:text="@string/app_name"
+        android:textColor="?attr/appTextColor"
+        android:layout_margin="8dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/bookmark_title"
+        android:text="A Simple Trick For Creating Color Palettes Quickly "
+        android:textSize="16sp"
+        app:layout_constraintTop_toBottomOf="@id/bookmark_category"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/bookmark_image"
+        android:maxLines="3"
+        android:textStyle="bold"
+        android:textColor="?attr/appTextColor"
+        android:layout_margin="8dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

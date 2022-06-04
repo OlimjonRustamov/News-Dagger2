@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Dagger2</string>
+    <string name="hello_blank_fragment">Hallo leeres Fragment</string>
+    <string name="logo">logo</string>
+    <string name="first_to_know">Zuerst wissen</string>
+    <string name="app_info">Alle Neuigkeiten an einem Ort, seien Sie der Erste, der die neuesten Nachrichten erfährt</string>
+    <string name="next">Nächste</string>
+    <string name="select_your_favourite_topics">Wählen Sie Ihre Lieblingsthemen aus</string>
+    <string name="select_some_topics_to_let_us">Wählen Sie einige Ihrer Lieblingsthemen aus, damit wir Ihnen bessere Nachrichten vorschlagen können.</string>
+    <string name="home_menu">Heim</string>
+    <string name="browse_menu">Kategorien</string>
+    <string name="bookmark_menu">Lesezeichen</string>
+    <string name="profile_menu">Profil</string>
+    <string name="settings">Einstellungen</string>
+    <string name="night_mode">Nacht-Modus</string>
+    <string name="languages">Sprachen</string>
+    <string name="english">Englisch</string>
+    <string name="german">Deutsch</string>
+    <string name="russian">Russisch</string>
+    <string name="spanish">Spanisch</string>
+    <string name="uzbek">Usbekisch</string>
+
+
+    <string name="categories">Kategorien</string>
+    <string name="categories_info">Tausende von Artikeln in jeder Kategorie</string>
+    <string name="category_sport">🏈 Sport</string>
+    <string name="category_politics">⚖️ Politik</string>
+    <string name="category_life">🌞 Leben</string>
+    <string name="category_gaming">🎮   Spielen</string>
+    <string name="category_animals">🐻   Tiere</string>
+    <string name="category_nature">🌴   Natur</string>
+    <string name="category_food">🍔   Essen</string>
+    <string name="category_art">🎨   Kunst</string>
+    <string name="category_history">📜   Geschichte</string>
+    <string name="category_fashion">👗   Mode</string>
+    <string name="category_covid19">😷   Covid-19</string>
+    <string name="category_middle_east">⚔️   Naher Osten</string>
+    <string name="bookmark">Lesezeichen</string>
+    <string name="bookmark_info">Gespeicherte Artikel in der Bibliothek</string>
+    <string name="no_bookmark">Sie haben noch keine Artikel gespeichert. Fangen Sie jetzt an, sie zu lesen und zu bookmarken</string>
+    <string name="browse">Durchsuche</string>
+    <string name="home_info">Entdecken Sie Dinge dieser Welt</string>
+    <string name="search">Suche</string>
+    <string name="recommended">Für dich empfohlen</string>
+    <string name="see_all">Alles sehen</string>
+    <string name="share">Teilen</string>
+</resources>

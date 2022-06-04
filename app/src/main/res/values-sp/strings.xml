@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Dagger2</string>
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="logo">logo</string>
+    <string name="first_to_know">Primera(o) en saber</string>
+    <string name="app_info">Todas las novedades en un solo lugar, sé el primero en enterarte de las últimas novedades</string>
+    <string name="next">Próximo</string>
+    <string name="select_your_favourite_topics">Selecciona tus temas favoritos</string>
+    <string name="select_some_topics_to_let_us">Seleccione algunos de sus temas favoritos para permitirnos sugerirle mejores noticias.</string>
+    <string name="home_menu">Hogar</string>
+    <string name="browse_menu">Categorías</string>
+    <string name="bookmark_menu">Marcador</string>
+    <string name="profile_menu">Perfil</string>
+    <string name="settings">Ajustes</string>
+    <string name="night_mode">Modo nocturno</string>
+    <string name="languages">Idiomas</string>
+    <string name="english">Inglés</string>
+    <string name="german">Alemán</string>
+    <string name="russian">Ruso</string>
+    <string name="spanish">Español</string>
+    <string name="uzbek">Uzbeco</string>
+
+
+    <string name="categories">categorías</string>
+    <string name="categories_info">Miles de artículos en cada categoría.</string>
+    <string name="category_sport">🏈 Deporte</string>
+    <string name="category_politics">⚖️ Política</string>
+    <string name="category_life">🌞 Vida</string>
+    <string name="category_gaming">🎮   Juego de azar</string>
+    <string name="category_animals">🐻   animales</string>
+    <string name="category_nature">🌴   Naturaleza</string>
+    <string name="category_food">🍔   Alimento</string>
+    <string name="category_art">🎨   Arte</string>
+    <string name="category_history">📜   Historia</string>
+    <string name="category_fashion">👗   Moda</string>
+    <string name="category_covid19">😷   Covid-19</string>
+    <string name="category_middle_east">⚔️   Oriente Medio</string>
+    <string name="bookmark">Marcador</string>
+    <string name="bookmark_info">Artículos guardados en la biblioteca</string>
+    <string name="no_bookmark">Aún no has guardado ningún artículo. Empiece a leerlos y a marcarlos ahora</string>
+    <string name="browse">Navegar</string>
+    <string name="home_info">Descubre cosas de este mundo</string>
+    <string name="search">Búsqueda</string>
+    <string name="recommended">Recomendado para ti</string>
+    <string name="see_all">Ver todo</string>
+    <string name="share">Cuota</string>
+</resources>
